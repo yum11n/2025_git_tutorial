@@ -1,3 +1,4 @@
 Hello world!
 My name is Yumin!
 My student number is 2024-12415.
+Goodbye!
